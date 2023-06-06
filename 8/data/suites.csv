@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jun 06 14:27:59 GMT 2023","Tue Jun 06 14:28:06 GMT 2023","6369","","ru.testproject.tests.api.BaseApiTests","","ru.testproject.tests.api.BaseApiTests","postApiTest","POST api test",""
+"passed","Tue Jun 06 14:28:06 GMT 2023","Tue Jun 06 14:28:06 GMT 2023","361","","ru.testproject.tests.api.BaseApiTests","","ru.testproject.tests.api.BaseApiTests","getApiTest","GET api test",""

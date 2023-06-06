@@ -1,3 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Tue Jun 06 14:15:11 GMT 2023","Tue Jun 06 14:15:20 GMT 2023","9178","","ru.girkalopa.tests.api.BaseApiTests","","ru.girkalopa.tests.api.BaseApiTests","postApiTest","POST api test",""
-"passed","Tue Jun 06 14:15:20 GMT 2023","Tue Jun 06 14:15:21 GMT 2023","400","","ru.girkalopa.tests.api.BaseApiTests","","ru.girkalopa.tests.api.BaseApiTests","getApiTest","GET api test",""
