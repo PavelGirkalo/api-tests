@@ -1,4 +1,4 @@
-package ru.girkalopa.tests.api;
+package ru.testproject.tests.api;
 
 import io.qameta.allure.Epic;
 import io.qameta.allure.Feature;
@@ -6,13 +6,13 @@ import io.restassured.response.Response;
 import org.apache.http.HttpStatus;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import ru.girkalopa.utils.ResourceUtils;
+import ru.testproject.utils.ResourceUtils;
 
 import java.util.Map;
 
 import static org.assertj.core.api.Assertions.assertThat;
-import static ru.girkalopa.steps.api.PostmanApiSteps.sendPostmanEchoGetRequest;
-import static ru.girkalopa.steps.api.PostmanApiSteps.sendPostmanEchoPostRequest;
+import static ru.testproject.steps.api.PostmanApiSteps.sendPostmanEchoGetRequest;
+import static ru.testproject.steps.api.PostmanApiSteps.sendPostmanEchoPostRequest;
 
 @Epic("Base tests from Girkalo Pavel")
 @Feature("Base Api tests for postman echo")

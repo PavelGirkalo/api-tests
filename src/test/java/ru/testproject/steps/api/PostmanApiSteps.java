@@ -1,4 +1,4 @@
-package ru.girkalopa.steps.api;
+package ru.testproject.steps.api;
 
 import io.qameta.allure.restassured.AllureRestAssured;
 import io.restassured.builder.RequestSpecBuilder;

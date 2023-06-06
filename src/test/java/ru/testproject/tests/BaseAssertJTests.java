@@ -1,4 +1,4 @@
-package ru.girkalopa.tests;
+package ru.testproject.tests;
 
 import io.qameta.allure.Epic;
 import io.qameta.allure.Feature;
