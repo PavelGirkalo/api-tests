@@ -1,0 +1,1 @@
+[{"uid":"a68e4fcbcea7a97b","name":"POST api test","time":{"start":1686060911370,"stop":1686060920548,"duration":9178},"status":"passed","severity":"normal"},{"uid":"1d516a408c6640cc","name":"GET api test","time":{"start":1686060920656,"stop":1686060921056,"duration":400},"status":"passed","severity":"normal"}]
